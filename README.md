@@ -1,5 +1,5 @@
-<h1 align="center">Hi there, I'm VoidExplorer 👋</h1>
-<h3 align="center">Welcome to my page!</h3>
+<h1 align="left">Hello there, I'm VoidExplorer 👋</h1>
+<h3 align="left">Welcome to my page!</h3>
 
 - 🌱 I’m currently learning **C# & web development**
 
